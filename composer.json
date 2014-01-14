@@ -3,7 +3,7 @@
     "description": "Backbeard Skeleton",
     "license": "BSD-3-Clause",
     "require": {
-        "php": ">5.5.0",
+        "php": ">=5.5.0",
         "sasezaki/backbeard": "dev-master"
     }
 }
