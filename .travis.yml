@@ -1,0 +1,12 @@
+language: php
+
+before_script:
+  - composer self-update
+  - composer install
+
+php:
+  - 5.5
+
+script:
+  - php public/index.php
+
