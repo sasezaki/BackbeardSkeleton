@@ -1,0 +1,11 @@
+{
+  "name": "backbeard-skeleton",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "font-awesome": "~3.2.1",
+    "pure": "~0.3.0"
+  }
+}
